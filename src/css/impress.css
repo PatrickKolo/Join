@@ -1,0 +1,25 @@
+.impress {
+    padding: 50px;
+}
+
+
+@media (max-width: 900px) {
+
+    .mainside {
+        padding: 50px;
+        height: 100vh;
+    }
+
+
+
+}
+
+@media (max-width: 768px) {
+
+    .displayflex {
+        flex-direction: column-reverse;
+    }
+
+
+
+}
